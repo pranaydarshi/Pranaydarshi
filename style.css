@@ -1,0 +1,27 @@
+.body{
+    text-align: center;
+    margin:0;
+}
+.top-container{
+    background-color: #E4F9F5;
+    padding-top:100px;
+
+}
+.h1{
+    margin-top: 0;
+}
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top:50px
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+    bottom: 300px;
+}
+.hero{
+    width: 150px;
+    height: 150px;
+    border-radius:100%;
+}
